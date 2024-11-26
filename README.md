@@ -1,0 +1,4 @@
+# Aprendiendo Python
+- inicio
+- estructura
+  
